@@ -4,18 +4,18 @@
 [[projects]]
   name = "github.com/rsc/dt2-a"
   packages = ["A"]
-  revision = "6b57f23e7d93b2bb4d41db1ab624b0d2677b17bf"
-  version = "v1.0.0"
+  revision = "9d28eefca054e9aa3163eda51dcf681e64818cb7"
+  version = "v1.0.1"
 
 [[projects]]
   name = "github.com/rsc/dt2-b"
   packages = ["B"]
-  revision = "b61b490cc53a330e623fe31f70ef7b6708e519b6"
-  version = "v1.0.0"
+  revision = "61d94d6e9646bab711ea23ac6b3a67a442bf23e6"
+  version = "v1.1.2"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "f8bbdfc2e8f27f00ca37acffa41311b73d9870fd0691cd975298c74a678e99be"
+  inputs-digest = "cf24808007b4d4b8beefea2ad4a4ff6993256c9ab0f6c055d58e434620b700c3"
   solver-name = "gps-cdcl"
   solver-version = 1
